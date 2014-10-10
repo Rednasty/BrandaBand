@@ -1,3 +1,8 @@
 Hoi dit is een test.
 
+<<<<<<< HEAD
 dus
+=======
+
+testerdetest!!
+>>>>>>> parent of 5641acd... Regel aangepast
